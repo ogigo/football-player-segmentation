@@ -1,0 +1,7 @@
+torch==2.2.0
+ultralytics==8.1.9
+opencv-python==4.9.0.80
+streamlit
+colorama==0.4.6
+clearml==1.14.1
+altair==4 
