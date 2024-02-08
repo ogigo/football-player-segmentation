@@ -1,0 +1,8 @@
+path: ../../../../../content/yolov8
+train: train/images
+val: test/images
+test: test/images
+
+# Classes
+names:
+    0: player
